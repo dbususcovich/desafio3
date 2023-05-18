@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Gin Malaria",
+        "description": "Gin",
+        "price": 7500,
+        "thumbnail": "url",
+        "code": "gin1",
+        "stock": 10,
+        "id": 1
+    },
+    {
+        "title": "Gin Rastinga",
+        "description": "Gin",
+        "price": 5000,
+        "thumbnail": "url",
+        "code": "gin2",
+        "stock": 10,
+        "id": 2
+    },
+    {
+        "title": "Vino Rutini",
+        "description": "Vino",
+        "price": 4000,
+        "thumbnail": "url",
+        "code": "vino1",
+        "stock": 10,
+        "id": 4
+    },
+    {
+        "title": "Vino Luigi Bosca",
+        "description": "Vino",
+        "price": 5200,
+        "thumbnail": "url",
+        "code": "vino2",
+        "stock": 10,
+        "id": 5
+    }
+]
